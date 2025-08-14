@@ -1,5 +1,6 @@
-# machine-learning-course-2025
-Resources and materials for the Machine Learning Course 202st
+# Machine Learning Course 2025
+
+Resources and materials for the Machine Learning Course 2025.
 
 This table organizes the course materials by scripts, video lectures, PDFs and additional resources.
 
