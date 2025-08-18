@@ -5,7 +5,7 @@ Welcome to the comprehensive Machine Learning Course 2025! This course provides 
 ## 📚 Based on the Book
 
 <div align="center">
-<img src="book-cover.png" alt="Machine Learning with PyTorch and Scikit-Learn" width="300"/>
+<img src="book-cover-new.png" alt="Machine Learning with PyTorch and Scikit-Learn" width="300"/>
 
 **Machine Learning with PyTorch and Scikit-Learn**  
 *Develop machine learning and deep learning models with Python*
