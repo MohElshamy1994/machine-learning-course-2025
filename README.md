@@ -51,7 +51,7 @@ This comprehensive course covers **19 chapters** of machine learning and deep le
 
 ## 📋 Prerequisites
 
-- **Basic programming knowledge** (any language)
+- **Basic programming knowledge** (Python)
 - **No prior ML experience required** - we'll learn everything together!
 - Enthusiasm to learn and practice
 
