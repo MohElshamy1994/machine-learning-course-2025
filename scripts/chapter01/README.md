@@ -4,9 +4,9 @@ This chapter covers the fundamental concepts of the Perceptron learning algorith
 
 ## 📓 Notebook Access
 
-| Notebook | Description | View Online | Download |
-|----------|-------------|-------------|----------|
-| **PerceptronLearningRule.ipynb** | Complete implementation of the Perceptron learning algorithm with step-by-step explanations and visualizations | [🔗 View Notebook](./PerceptronLearningRule.ipynb) | [📥 Download](https://github.com/MohElshamy1994/machine-learning-course-2025/raw/main/scripts/chapter01/PerceptronLearningRule.ipynb) |
+| Notebook | Description | View Online |
+|----------|-------------|-------------|
+| **PerceptronLearningRule.ipynb** | Complete implementation of the Perceptron learning algorithm with step-by-step explanations and visualizations | [🔗 View Notebook](./PerceptronLearningRule.ipynb) |
 
 ## 📋 What You'll Learn
 
