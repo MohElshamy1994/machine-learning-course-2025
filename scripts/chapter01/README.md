@@ -2,20 +2,11 @@
 
 This chapter covers the fundamental concepts of the Perceptron learning algorithm, one of the earliest machine learning algorithms for binary classification.
 
-## 📓 Notebooks
+## 📥 Download Notebook
 
-### Perceptron Learning Rule
-Implementation and explanation of the Perceptron algorithm with practical examples.
-
-| Notebook | Description | View Online | Download |
-|----------|-------------|-------------|----------|
-| **PerceptronLearningRule.ipynb** | Complete implementation of the Perceptron learning algorithm with step-by-step explanations and visualizations | [🔗 View on GitHub](https://github.com/MohElshamy1994/machine-learning-course-2025/blob/main/scripts/chapter01/PerceptronLearningRule.ipynb) | [📥 Download](https://raw.githubusercontent.com/MohElshamy1994/machine-learning-course-2025/main/scripts/chapter01/PerceptronLearningRule.ipynb) |
-
-## 🚀 Quick Start
-
-1. **View Online**: Click the "View on GitHub" link to see the notebook rendered directly in your browser
-2. **Download**: Click the "Download" link to save the notebook file to your computer
-3. **Run Locally**: Open the downloaded notebook in Jupyter Lab/Notebook to run the code interactively
+| Notebook | Description | Download |
+|----------|-------------|----------|
+| **PerceptronLearningRule.ipynb** | Complete implementation of the Perceptron learning algorithm with step-by-step explanations and visualizations | [📥 Download](https://raw.githubusercontent.com/MohElshamy1994/machine-learning-course-2025/main/scripts/chapter01/PerceptronLearningRule.ipynb) |
 
 ## 📋 What You'll Learn
 
@@ -27,4 +18,24 @@ Implementation and explanation of the Perceptron algorithm with practical exampl
 
 ---
 
-**💡 Tip**: For the best experience, download the notebook and run it in your local Jupyter environment to interact with the code and modify examples.
+## 📓 Notebook Content
+
+The notebook content is displayed directly below. GitHub automatically renders Jupyter notebooks, so you can see all the code, outputs, and visualizations right here on this page.
+
+### PerceptronLearningRule.ipynb
+
+Click here to view the full notebook with all outputs and visualizations:
+
+**[📖 View Full Notebook](./PerceptronLearningRule.ipynb)**
+
+The notebook includes:
+- Complete Perceptron implementation from scratch
+- Step-by-step explanations of the algorithm
+- Data loading and preprocessing (Iris dataset)
+- Visualization of the learning process
+- Decision boundary plotting
+- Mathematical foundations and intuition
+
+---
+
+**💡 Tip**: Download the notebook above and run it in your local Jupyter environment to interact with the code and modify examples.
