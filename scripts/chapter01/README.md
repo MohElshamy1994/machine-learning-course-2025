@@ -2,11 +2,11 @@
 
 This chapter covers the fundamental concepts of the Perceptron learning algorithm, one of the earliest machine learning algorithms for binary classification.
 
-## 📥 Download Notebook
+## 📓 Notebook Access
 
-| Notebook | Description | Download |
-|----------|-------------|----------|
-| **PerceptronLearningRule.ipynb** | Complete implementation of the Perceptron learning algorithm with step-by-step explanations and visualizations | [📥 Download Notebook](https://github.com/MohElshamy1994/machine-learning-course-2025/raw/main/scripts/chapter01/PerceptronLearningRule.ipynb) |
+| Notebook | Description | View Online | Download |
+|----------|-------------|-------------|----------|
+| **PerceptronLearningRule.ipynb** | Complete implementation of the Perceptron learning algorithm with step-by-step explanations and visualizations | [🔗 View Notebook](./PerceptronLearningRule.ipynb) | [📥 Download](https://github.com/MohElshamy1994/machine-learning-course-2025/raw/main/scripts/chapter01/PerceptronLearningRule.ipynb) |
 
 ## 📋 What You'll Learn
 
