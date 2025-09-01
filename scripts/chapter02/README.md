@@ -1,4 +1,4 @@
-# Chapter 01 - Perceptron Learning Rule
+# Chapter 02 - Perceptron Learning Rule
 
 This chapter covers the fundamental concepts of the Perceptron learning algorithm, one of the earliest machine learning algorithms for binary classification.
 
