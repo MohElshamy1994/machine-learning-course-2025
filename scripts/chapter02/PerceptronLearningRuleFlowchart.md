@@ -1,0 +1,17 @@
+# Perceptron Learning Rule Flowchart
+
+```mermaid
+graph TD
+    A[Start] --> B[Initialize weights]
+    B --> C[Input training sample]
+    C --> D{Is output correct?}
+    D -- Yes --> E[Next sample]
+    D -- No --> F[Update weights]
+    F --> E
+    E --> G{More samples?}
+    G -- Yes --> C
+    G -- No --> H[End]
+```
+
+---
+
